@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoseDSilver
+- 👀 I’m interested in ...Aprender mais 
+- 🌱 I’m currently learning ...Python
+- 💞️ I’m looking to collaborate on ...Ajudar em alguns bugs
+- 📫 How to reach me ...email:jd.silverg@gmail.com
