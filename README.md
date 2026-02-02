@@ -39,7 +39,7 @@ Tenho perfil prático, analítico e focado em aprendizado contínuo, buscando pr
 
 Evil Twin
 Agenda Auto — Notificador de Agendamentos por WhatsApp
-
+Stock Tracker
 
 
 ## Contato
