@@ -19,6 +19,7 @@ Tenho perfil prático, analítico e focado em aprendizado contínuo, buscando pr
 ## Hardware & Eletrônica
 
 * Arduino (Nano, Uno, etc.)
+* Esp (S3, C3, etc.)
 * Sensores (MPU, barômetros, sensores de distância, cor, etc.)
 * Motores DC, brushless, servos e ESCs
 * Comunicação: NRF24L01, LoRa, Bluetooth
@@ -40,7 +41,6 @@ Tenho perfil prático, analítico e focado em aprendizado contínuo, buscando pr
 Evil Twin
 Agenda Auto — Notificador de Agendamentos por WhatsApp
 Stock Tracker
-
 
 ## Contato
 
